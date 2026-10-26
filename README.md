@@ -8,7 +8,7 @@ Currently Lead AI Automation Engineer at Agent Genius AI, based in Bataan, Phili
 - **Frontend:** React, Next.js, Material UI, Twig, Tailwind, Untitled UI
 - **Backend:** Node.js, Express.js, C#/.NET, Symfony
 - **AI & Automation:** n8n, webhooks, LLM integrations
-- **Databases:** PostgreSQL, MySQL, MongoDB, Supabase
+- **Databases:** PostgreSQL, MySQL, MongoDB
 - **Cloud & DevOps:** Azure, GitHub Actions, Git
 
 ## Featured Projects
