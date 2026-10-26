@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi, I'm Rae Allen 👋
 
-<!--
-**raeAllen17/raeAllen17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer with a strong frontend focus, building AI-powered web apps and automation workflows. Currently Lead AI Automation Engineer at Agent Genius AI, based in Bataan, Philippines.
 
-Here are some ideas to get you started:
+Tech Stack
+Frontend: React, Next.js, Material UI, Twig
+Backend: Node.js, Express.js, C#/.NET, Symfony
+AI & Automation: n8n, webhooks, LLM integrations
+Databases: PostgreSQL, MySQL, MongoDB, Supabase
+Cloud & DevOps: Azure, GitHub Actions, Git
+Featured Projects
+JOYn: a full-stack MERN travel platform with role-based access, activity management, chat, and Google Maps integration. Live demo
+TREX Voice: a real-time voice chat app built with WebRTC and Socket.IO, designed to run well on lower-end devices. Live demo
+Let's Connect
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+LinkedIn · Credly
