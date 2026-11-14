@@ -22,8 +22,6 @@ Currently Lead AI Automation Engineer at Agent Genius AI, based in Bataan, Phili
 ![.NET](https://img.shields.io/badge/.NET-20232A?style=for-the-badge&logo=dotnet&logoColor=512BD4)
 ![PHP](https://img.shields.io/badge/PHP-20232A?style=for-the-badge&logo=php&logoColor=777BB4)
 ![Symfony](https://img.shields.io/badge/Symfony-20232A?style=for-the-badge&logo=symfony&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-20232A?style=for-the-badge&logo=socketdotio&logoColor=white)
-![WebRTC](https://img.shields.io/badge/WebRTC-20232A?style=for-the-badge&logo=webrtc&logoColor=white)
 
 **AI & Automation**
 
